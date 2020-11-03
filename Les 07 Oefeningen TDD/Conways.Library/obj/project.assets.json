@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\Conways.Library.csproj",
+      "projectUniqueName": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\Conways.Library\\Conways.Library.csproj",
       "projectName": "Conways.Library",
-      "projectPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\Conways.Library.csproj",
+      "projectPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\Conways.Library\\Conways.Library.csproj",
       "packagesPath": "C:\\Users\\janvd\\.nuget\\packages\\",
-      "outputPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\obj\\",
+      "outputPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\Conways.Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -4645,11 +4645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conways.Library.Tests\\Conways.Library.Tests.csproj",
+      "projectUniqueName": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\Conways.Library.Tests\\Conways.Library.Tests.csproj",
       "projectName": "Conways.Library.Tests",
-      "projectPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conways.Library.Tests\\Conways.Library.Tests.csproj",
+      "projectPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\Conways.Library.Tests\\Conways.Library.Tests.csproj",
       "packagesPath": "C:\\Users\\janvd\\.nuget\\packages\\",
-      "outputPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conways.Library.Tests\\obj\\",
+      "outputPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\Conways.Library.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4670,8 +4670,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\Conways.Library.csproj": {
-              "projectPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\Conways.Library.csproj"
+            "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\Conway.Library\\Conways.Library.csproj": {
+              "projectPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\Conway.Library\\Conways.Library.csproj"
             }
           }
         }

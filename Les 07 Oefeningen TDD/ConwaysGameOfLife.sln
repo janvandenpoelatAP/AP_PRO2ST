@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysGameOfLife", "ConwayGameOfLife\ConwaysGameOfLife.csproj", "{CF4024CD-3279-447F-B57D-B77DF4BEBEAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conways.Library", "Conways.Library\Conways.Library.csproj", "{579DFB44-1BE6-4529-9BFA-8042F2726968}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conways.Library", "Conway.Library\Conways.Library.csproj", "{579DFB44-1BE6-4529-9BFA-8042F2726968}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conways.Library.Tests", "Conways.Library.Tests\Conways.Library.Tests.csproj", "{E275AE53-6F93-4857-8900-D39B0BBA800E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conways.Library.Tests", "Conways.Library.Tests\Conways.Library.Tests.csproj", "{E275AE53-6F93-4857-8900-D39B0BBA800E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CF4024CD-3279-447F-B57D-B77DF4BEBEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF4024CD-3279-447F-B57D-B77DF4BEBEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF4024CD-3279-447F-B57D-B77DF4BEBEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF4024CD-3279-447F-B57D-B77DF4BEBEAF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{579DFB44-1BE6-4529-9BFA-8042F2726968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{579DFB44-1BE6-4529-9BFA-8042F2726968}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{579DFB44-1BE6-4529-9BFA-8042F2726968}.Release|Any CPU.ActiveCfg = Release|Any CPU

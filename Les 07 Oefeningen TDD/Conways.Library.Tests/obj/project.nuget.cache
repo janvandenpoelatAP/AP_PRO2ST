@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G8B2Qd81HEgaPH48cDqRi7uvF5zRSgDlC8bZTAo1m2nRNuZgqVc2+grMdbzNLUQ8evdu+zYjuZWayDQjg254gQ==",
+  "dgSpecHash": "g6VD00jfITgtKspUp2xwr1u/uC3n/O5QIBpXalvk8/pulqmdzwDB/EiJqNWUV/Y4JS6G/hlTkkiyqXJNrCRwXw==",
   "success": true,
-  "projectFilePath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conways.Library.Tests\\Conways.Library.Tests.csproj",
+  "projectFilePath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\Conways.Library.Tests\\Conways.Library.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janvd\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\janvd\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
