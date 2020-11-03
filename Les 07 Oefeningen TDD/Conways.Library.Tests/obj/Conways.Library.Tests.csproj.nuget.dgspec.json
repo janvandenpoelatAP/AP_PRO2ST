@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conways.Library.Tests\\Conways.Library.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\Conways.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\Conways.Library.csproj",
+        "projectName": "Conways.Library",
+        "projectPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\Conways.Library.csproj",
+        "packagesPath": "C:\\Users\\janvd\\.nuget\\packages\\",
+        "outputPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janvd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conways.Library.Tests\\Conways.Library.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conways.Library.Tests\\Conways.Library.Tests.csproj",
+        "projectName": "Conways.Library.Tests",
+        "projectPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conways.Library.Tests\\Conways.Library.Tests.csproj",
+        "packagesPath": "C:\\Users\\janvd\\.nuget\\packages\\",
+        "outputPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conways.Library.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janvd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\Conways.Library.csproj": {
+                "projectPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\ConwayGameOfLife\\Conway.Library\\Conways.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
