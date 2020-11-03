@@ -3228,11 +3228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
+      "projectUniqueName": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
       "projectName": "FizzBuzz.Library",
-      "projectPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
+      "projectPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
       "packagesPath": "C:\\Users\\janvd\\.nuget\\packages\\",
-      "outputPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\FizzBuzz.Library\\obj\\",
+      "outputPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

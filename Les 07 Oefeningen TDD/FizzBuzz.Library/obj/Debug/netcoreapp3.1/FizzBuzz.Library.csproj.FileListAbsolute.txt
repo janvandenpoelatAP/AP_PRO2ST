@@ -11,3 +11,16 @@ D:\APHS\PRG2_STLAB\OPL\Les 07\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.
 D:\APHS\PRG2_STLAB\OPL\Les 07\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csproj.CoreCompileInputs.cache
 D:\APHS\PRG2_STLAB\OPL\Les 07\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.dll
 D:\APHS\PRG2_STLAB\OPL\Les 07\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.pdb
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.deps.json
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.pdb
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfoInputs.cache
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfo.cs
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+D:\OneDrive - AP Hogeschool Antwerpen\PRG2_STLAB\Opgaven\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.pdb

@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\FizzBuzz.Library.Tests\\FizzBuzz.Library.Tests.csproj",
+      "projectUniqueName": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\FizzBuzz.Library.Tests\\FizzBuzz.Library.Tests.csproj",
       "projectName": "FizzBuzz.Library.Tests",
-      "projectPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\FizzBuzz.Library.Tests\\FizzBuzz.Library.Tests.csproj",
+      "projectPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\FizzBuzz.Library.Tests\\FizzBuzz.Library.Tests.csproj",
       "packagesPath": "C:\\Users\\janvd\\.nuget\\packages\\",
-      "outputPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\FizzBuzz.Library.Tests\\obj\\",
+      "outputPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\FizzBuzz.Library.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4674,8 +4674,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
-              "projectPath": "D:\\APHS\\PRG2_STLAB\\OPL\\Les 07\\FizzBuzz.Library\\FizzBuzz.Library.csproj"
+            "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
+              "projectPath": "D:\\OneDrive - AP Hogeschool Antwerpen\\PRG2_STLAB\\Opgaven\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj"
             }
           }
         }
