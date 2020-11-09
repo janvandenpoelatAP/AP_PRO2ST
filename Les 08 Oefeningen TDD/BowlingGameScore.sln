@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGame", "BowlingGame\BowlingGame.csproj", "{6D8B11D3-114F-49E0-956E-6889911334ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingGameScore", "BowlingGame\BowlingGameScore.csproj", "{6D8B11D3-114F-49E0-956E-6889911334ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGameTests", "BowlingGameTests\BowlingGameTests.csproj", "{C0B24E4B-8CFC-4801-AEFF-7876EFE8B934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingGameScoreTests", "BowlingGameTests\BowlingGameScoreTests.csproj", "{C0B24E4B-8CFC-4801-AEFF-7876EFE8B934}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

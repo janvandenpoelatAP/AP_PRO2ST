@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BowlingGame
+namespace BowlingGameScore
 {
     class Program
     {

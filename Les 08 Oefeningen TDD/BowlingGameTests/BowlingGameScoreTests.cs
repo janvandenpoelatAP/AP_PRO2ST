@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace BowlingGameTests
+namespace BowlingGameScoreTests
 {
     public class Tests
     {
