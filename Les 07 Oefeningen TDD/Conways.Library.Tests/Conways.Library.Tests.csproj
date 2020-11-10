@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Conway.Library\Conways.Library.csproj" />
+    <ProjectReference Include="..\Conways.Library\Conways.Library.csproj" />
   </ItemGroup>
 
 </Project>
