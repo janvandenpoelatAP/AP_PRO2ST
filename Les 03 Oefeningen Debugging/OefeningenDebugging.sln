@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OefeningDebugging1", "OefeningDebugging1\OefeningDebugging1.csproj", "{3575D235-5D75-4994-8B32-7D04401750B2}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoorbeeldDebugging4", "VoorbeeldDebugging4\VoorbeeldDebugging4.csproj", "{A198E3A9-94EB-4E56-9A37-7E359AD9A9BE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OefeningDebugging4", "OefeningDebugging4\OefeningDebugging4.csproj", "{E51A9D63-9ED0-4923-9FFF-D695467C0A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningDebugging5", "OefeningDebugging5\OefeningDebugging5.csproj", "{CBD73850-7BF3-4DDC-9AB3-60CC79473E0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E51A9D63-9ED0-4923-9FFF-D695467C0A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E51A9D63-9ED0-4923-9FFF-D695467C0A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E51A9D63-9ED0-4923-9FFF-D695467C0A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD73850-7BF3-4DDC-9AB3-60CC79473E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD73850-7BF3-4DDC-9AB3-60CC79473E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD73850-7BF3-4DDC-9AB3-60CC79473E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD73850-7BF3-4DDC-9AB3-60CC79473E0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
