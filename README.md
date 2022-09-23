@@ -6,7 +6,7 @@ Per Les/Item (Debugging, Unit Testing, ...) is er een directory gemaakt met per 
 In principe zijn ook alle nuget packages geïnstalleerd en alle referenties gemaakt dus je kan zo aan de slag.
 
 De opgaves kan je downloaden van github
-1. ofwel via git bash: $ git clone https://github.com/janvandenpoelatAP/PRG2_ST_Opgaves.git
+1. ofwel via git bash: $ git clone https://github.com/janvandenpoelatAP/PRO2ST_Opgave.git
 2. ofwel rechtstreeks in visual studio 
 
 
