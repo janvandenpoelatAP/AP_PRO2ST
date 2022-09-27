@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace UnitTesting
+﻿namespace UnitTestingDependencies
 {
     public class Die : IDie
     {

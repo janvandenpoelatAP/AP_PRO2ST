@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OefeningDebugging1", "OefeningDebugging1\OefeningDebugging1.csproj", "{3575D235-5D75-4994-8B32-7D04401750B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave1", "OefeningDebugging1\Opgave1.csproj", "{3575D235-5D75-4994-8B32-7D04401750B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OefeningDebugging2", "OefeningDebugging2\OefeningDebugging2.csproj", "{3E12FE3A-F34E-4716-A05C-700C67A95B84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave2", "OefeningDebugging2\Opgave2.csproj", "{3E12FE3A-F34E-4716-A05C-700C67A95B84}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OefeningDebugging3", "OefeningDebugging3\OefeningDebugging3.csproj", "{673EC30A-D71D-4E52-83B1-1BE1B3685584}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave3", "OefeningDebugging3\Opgave3.csproj", "{673EC30A-D71D-4E52-83B1-1BE1B3685584}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoorbeeldDebugging1", "VoorbeeldDebugging1\VoorbeeldDebugging1.csproj", "{61CE5311-4323-45AA-B037-87D383B98B91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voorbeeld1", "VoorbeeldDebugging1\Voorbeeld1.csproj", "{61CE5311-4323-45AA-B037-87D383B98B91}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoorbeeldDebugging2", "VoorbeeldDebugging2\VoorbeeldDebugging2.csproj", "{B02FCF96-6048-4B91-B95F-BC810B3DD808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voorbeeld2", "VoorbeeldDebugging2\Voorbeeld2.csproj", "{B02FCF96-6048-4B91-B95F-BC810B3DD808}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoorbeeldDebugging3", "VoorbeeldDebugging3\VoorbeeldDebugging3.csproj", "{0976CA39-CD44-4AAD-A361-7CF8817BA78A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voorbeeld3", "VoorbeeldDebugging3\Voorbeeld3.csproj", "{0976CA39-CD44-4AAD-A361-7CF8817BA78A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoorbeeldDebugging4", "VoorbeeldDebugging4\VoorbeeldDebugging4.csproj", "{A198E3A9-94EB-4E56-9A37-7E359AD9A9BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voorbeeld4", "VoorbeeldDebugging4\Voorbeeld4.csproj", "{A198E3A9-94EB-4E56-9A37-7E359AD9A9BE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OefeningDebugging4", "OefeningDebugging4\OefeningDebugging4.csproj", "{E51A9D63-9ED0-4923-9FFF-D695467C0A56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave4", "OefeningDebugging4\Opgave4.csproj", "{E51A9D63-9ED0-4923-9FFF-D695467C0A56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningDebugging5", "OefeningDebugging5\OefeningDebugging5.csproj", "{CBD73850-7BF3-4DDC-9AB3-60CC79473E0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave5", "OefeningDebugging5\Opgave5.csproj", "{CBD73850-7BF3-4DDC-9AB3-60CC79473E0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
