@@ -1,6 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System.Collections.Generic;
-using System;
 
 Console.WriteLine("Welcome to Galaxy News!");
 
