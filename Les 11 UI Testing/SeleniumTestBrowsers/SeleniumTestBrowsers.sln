@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTestBrowsers", "SeleniumTestBrowsers\SeleniumTestBrowsers.csproj", "{EF44B861-2027-4F6D-B4FE-861326645C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTestBrowsers.Tests", "SeleniumTestBrowsers.Tests\SeleniumTestBrowsers.Tests.csproj", "{72B3CD04-F016-4777-A87D-336CAC898C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF44B861-2027-4F6D-B4FE-861326645C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF44B861-2027-4F6D-B4FE-861326645C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF44B861-2027-4F6D-B4FE-861326645C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF44B861-2027-4F6D-B4FE-861326645C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B3CD04-F016-4777-A87D-336CAC898C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B3CD04-F016-4777-A87D-336CAC898C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B3CD04-F016-4777-A87D-336CAC898C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B3CD04-F016-4777-A87D-336CAC898C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CDE623-80AE-4F6C-8CD8-7021ED1AF7A2}
+	EndGlobalSection
+EndGlobal
