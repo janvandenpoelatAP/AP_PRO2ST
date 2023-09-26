@@ -1,4 +1,4 @@
-# PRO2ST_Opgave
+# AP_PRO2ST
 In deze repository vinden jullie de voorbeelden, startprojecten (Opgaven) en de eindoplossingen (Oplossingen) van de cursus Software Testing.
 
 Per Les/Item (Debugging, Unit Testing, ...) is er een directory gemaakt met per oefening een solution. Binnen die solution vind je de nodige projecten, libraries, ...
