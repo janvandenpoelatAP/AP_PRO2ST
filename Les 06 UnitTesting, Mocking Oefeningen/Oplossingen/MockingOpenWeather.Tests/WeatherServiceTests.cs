@@ -48,5 +48,32 @@ namespace MockingOpenWeather.Tests
             var result = weatherService.GetCurrentWeatherInAntwerp();
             Assert.AreEqual("It's HOT!!!", result);
         }
+        [TestMethod()]
+        public void GetCurrentWeatherInAntwerp_When_Getting_Temperature_Fails()
+        {
+            // ARRANGE
+            var openWeatherMap = new Mock<IOpenWeatherMapApi>();
+            openWeatherMap.Setup(x => x.GetCurrentTemperatureInAntwerp()).Throws<Exception>(); // (1)
+
+            // ACT
+            var weatherService = new WeatherService(openWeatherMap.Object);
+
+            // ASSERT
+            Assert.ThrowsException<Exception>(() => weatherService.GetCurrentWeatherInAntwerp()); // (2)
+        }
+        [TestMethod()]
+        public void GetCurrentWeatherInAntwerp_When_Getting_Temperature_Fails_Returns_Failed()
+        {
+            // ARRANGE
+            var weatherApi = new Mock<IOpenWeatherMapApi>();
+            weatherApi.Setup(x => x.GetCurrentTemperatureInAntwerp()).Throws<Exception>();
+
+            // ACT
+            var weatherService = new WeatherService(weatherApi.Object);
+            var result = weatherService.GetCurrentWeatherInAntwerp();
+
+            // ASSERT
+            Assert.AreEqual("Failed to get temperature", result);
+        }
     }
 }

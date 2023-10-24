@@ -11,7 +11,16 @@
 
         public string GetCurrentWeatherInAntwerp()
         {
-            var temp = openWeatherMapApi.GetCurrentTemperatureInAntwerp();
+
+            float temp;
+            try
+            {
+                temp = openWeatherMapApi.GetCurrentTemperatureInAntwerp();
+            }
+            catch (Exception)
+            {
+                return "Failed to get temperature";
+            }
             if (temp < 0)
             {
                 return "Brrrr, it's freezing";
